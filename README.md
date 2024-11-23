@@ -2,4 +2,4 @@
 
 This is the Home page!
 
-I'm a enginnering student at the University of Sri Jayawardenapura.
+I'm a undergraduate of Computer Enginnering at the University of Sri Jayawardenapura.
